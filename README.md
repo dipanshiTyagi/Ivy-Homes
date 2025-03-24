@@ -5,6 +5,12 @@ This document presents a detailed analysis of the autocomplete API available at 
 
 ---
 
+## Tools & Technologies used
+- **Postman** - For sending requests, analyzing responses, and automating API testing.
+- **Python (Requests Library)** – For scripting automated API tests.
+
+---
+ 
 ## Approach Used to Solve the Problem
 
 ### Input-Based Testing
