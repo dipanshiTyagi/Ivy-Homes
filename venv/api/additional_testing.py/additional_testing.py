@@ -1,4 +1,4 @@
-import requests # type: ignore
+import requests 
 import time
 
 # Base URL of the API
